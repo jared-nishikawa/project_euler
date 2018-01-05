@@ -1,0 +1,7 @@
+jared@Sai:~/Documents/python/projecteuler/51$ time ./solve.py 
+*2*3*3
+121313
+
+real    0m8.024s
+user    0m7.796s
+sys 0m0.224s
